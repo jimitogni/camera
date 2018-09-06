@@ -1,0 +1,7 @@
+{
+  "name": "camera-preview-project",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
